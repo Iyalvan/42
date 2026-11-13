@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxlibrary tags="power platform communications editable">[
+  {
+    "title": "Power Apps - Canvas app",
+    "w": 330.0,
+    "h": 135.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4;color:#203047&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:19px;font-weight:bold;&amp;quot;&amp;gt;Power Apps - Canvas app&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;View records and outcomes&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;View block / communication state&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;Bulk UI actions: TBD&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=16;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#f4eefa;strokeColor=#a78ac2;rounded=1;arcSize=8;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"330\" height=\"135\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Dataverse table",
+    "w": 330.0,
+    "h": 190.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4;color:#203047&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:19px;font-weight:bold;&amp;quot;&amp;gt;Microsoft Dataverse&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Imported records + key dates&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Block state + event outcomes&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Communication history&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Table design: TBD&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=17;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#eaf6ef;strokeColor=#6c9d83;shape=cylinder3;size=15;boundedLbl=1;backgroundOutline=1;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"330\" height=\"190\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Power Automate processing stage",
+    "w": 365.0,
+    "h": 190.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4;color:#203047&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:19px;font-weight:bold;&amp;quot;&amp;gt;Power Automate&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;Daily bulk processing&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;Identify trigger / completion events&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;Evaluate eligibility and milestones&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;Apply / remove Dataverse blocks&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:16px&amp;quot;&amp;gt;Business rules: TBD&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=16;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#edf4ff;strokeColor=#7594c4;rounded=1;arcSize=8;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"365\" height=\"190\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Daily recurrence",
+    "w": 365.0,
+    "h": 135.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4;color:#203047&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:19px;font-weight:bold;&amp;quot;&amp;gt;Power Automate&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Recurrence - daily&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Run time / time zone: TBD&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=17;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#edf4ff;strokeColor=#7594c4;rounded=1;arcSize=8;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"365\" height=\"135\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "CSV document",
+    "w": 240.0,
+    "h": 135.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4;color:#203047&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:19px;font-weight:bold;&amp;quot;&amp;gt;Inbound CSV&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Source data + key dates&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Schema / location: TBD&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=17;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#f5f7fa;strokeColor=#a9b6c5;shape=document;size=0.12;boundedLbl=1;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"240\" height=\"135\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Third-party API",
+    "w": 250.0,
+    "h": 180.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4;color:#203047&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:19px;font-weight:bold;&amp;quot;&amp;gt;Delivery APIs&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Third-party provider(s)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Alerts / emails / letters&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;HTTP / connector: TBD&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;API contracts: TBD&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=17;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#f5f7fa;strokeColor=#a9b6c5;rounded=1;arcSize=8;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"250\" height=\"180\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Eligibility decision",
+    "w": 240.0,
+    "h": 165.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4;color:#203047&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:18px;font-weight:bold;&amp;quot;&amp;gt;Communication&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;eligible and due?&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=17;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#edf4ff;strokeColor=#7594c4;rhombus;rounded=0;spacing=4;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"240\" height=\"165\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Communication milestone",
+    "w": 280.0,
+    "h": 112.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:center;line-height:1.4&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size:22px&amp;quot;&amp;gt;Day TBD&amp;lt;/b&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:18px&amp;quot;&amp;gt;Channel: TBD&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=18;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#fff7e8;strokeColor=#caa564;rounded=1;arcSize=8;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"280\" height=\"112\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Requirement note",
+    "w": 650.0,
+    "h": 155.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"&amp;lt;div style=&amp;quot;font-family:Arial;text-align:left;line-height:1.4&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size:19px&amp;quot;&amp;gt;Requirement to confirm&amp;lt;/b&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;span style=&amp;quot;font-size:17px&amp;quot;&amp;gt;Add the question and agreed decision.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=17;align=left;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;fillColor=#fff7e8;strokeColor=#caa564;rounded=1;arcSize=8;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"650\" height=\"155\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  },
+  {
+    "title": "Environment container",
+    "w": 800.0,
+    "h": 400.0,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\" /&gt;&lt;mxCell id=\"1\" parent=\"0\" /&gt;&lt;mxCell id=\"component\" value=\"Microsoft Power Platform environment\" style=\"whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#203047;fontSize=17;align=center;verticalAlign=middle;spacing=12;strokeWidth=1.5;shadow=0;swimlane;horizontal=1;startSize=44;rounded=0;container=1;collapsible=0;recursiveResize=0;fillColor=#fafcff;swimlaneFillColor=#fafcff;strokeColor=#99acc6;fontSize=21;fontStyle=1;align=left;spacingLeft=16;\" vertex=\"1\" parent=\"1\"&gt;\n          &lt;mxGeometry x=\"0\" y=\"0\" width=\"800\" height=\"400\" as=\"geometry\" /&gt;\n        &lt;/mxCell&gt;\n        &lt;/root&gt;&lt;/mxGraphModel&gt;"
+  }
+]</mxlibrary>
